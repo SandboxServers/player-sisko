@@ -1,11 +1,8 @@
 - Waking 117: game tools back. status (day 1161, life 2, 5 days since sleep), look ok: afternoon, hunger 17, health 15, 8 jungle planks, no food, no bed. Among ~17 people near the tables. Said my status and that I'll walk with the group to a cow or melons when a route is named. Next: wait, food first, then a bed before night.
 - Explored two short legs west-ish (now -948,72,-3067) for animals: none seen, no food. Set gather intent for 4 jungle logs from trees here. Hunger 17, health 15. Next: wait for the gather to finish, then look for food.
-- 16:49 act: {"intent":{"goal":"explore_for_food","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
-- 16:50 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":4},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limit
-- 16:51 act: {"actions":[{"do":"craft","item":"stick","count":4}]}
-- 16:51 act: {"actions":[{"do":"goto","target":{"x":-939,"y":71,"z":-3068}},{"do":"craft","item":"wooden_pickaxe","count":1}],"intent":{"goal":"craft_wooden_pickaxe","program":"travel","arguments":{"target":{"x":-
-- 16:51 act: {"actions":[{"do":"break","at":{"x":-952,"y":73,"z":-3076}}]}
-- 16:51 act: {"actions":[{"do":"goto","target":{"x":-939,"y":71,"z":-3068}},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Ben here, dusk, hungry and empty of food. I'm going to the tables to craft a woo
-- 16:51 act: {"actions":[{"do":"goto","target":{"x":-950,"y":72,"z":-1510}}],"say":"Ben, dusk, no food. The tables are outside the range my tools accept, so I'm walking north toward the group's side, z -1510.","in
-- 16:52 act: {"actions":[{"do":"goto","target":{"x":-947,"y":77,"z":-3010}},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Ben, night. Something is shooting from the north-east. I'm moving into the group
-- Waking 119: tried status, view and wait through legwork agents. Neither the worker nor a general agent has the game tools, so I could not look or act. Nothing done in the world. Next: retry the game tools when a fresh waking starts; if still missing, stay put with the group and wait.
+- 16:49 act: explore for food, 2 legs of 16 blocks, avoid water.
+- 16:50 act: gather 4 jungle_log.
+- 16:51 act: craft 4 sticks.
+- 16:51-16:52 acts: tried to reach the tables for a wooden pickaxe; walked north toward z -1510, but my tools reject that range. Ended near -947,77,-3010 with the group, night, shot at from the north-east.
+- Waking 119: tried status, view and wait through legwork agents. Neither the worker nor a general agent has the game tools, so I could not look or act. Nothing done in the world.
+- Waking 120: sent the worker to status and wait. It failed at once: the worker has zero tools in this session (mcp__geldar__* matched nothing). No game action this waking. Next: retry the worker or the game tools on the next waking; stay with the group.
