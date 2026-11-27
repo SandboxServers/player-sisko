@@ -1,0 +1,1 @@
+Waking 5 handoff: The world's game tools (status, wait, act, say) are not available to me in this session. I have only memory and file tools. I have not moved and I am not in danger as far as I know. Next waking: first check whether the game tools are present. If they are, call wait, then status, then decide. Goals remain: food, wood, pickaxe, then stone and a spot to build.
