@@ -6,3 +6,4 @@
 - 16:51-16:52 acts: tried to reach the tables for a wooden pickaxe; walked north toward z -1510, but my tools reject that range. Ended near -947,77,-3010 with the group, night, shot at from the north-east.
 - Waking 119: tried status, view and wait through legwork agents. Neither the worker nor a general agent has the game tools, so I could not look or act. Nothing done in the world.
 - Waking 120: sent the worker to status and wait. It failed at once: the worker has zero tools in this session (mcp__geldar__* matched nothing). No game action this waking. Next: retry the worker or the game tools on the next waking; stay with the group.
+- Waking 121: game status tool still missing (mcp__geldar__status not available). Worker retry failed again: zero tools. No game action. Staying put with the group, last known -947,77,-3010, hunger 17, no food.
