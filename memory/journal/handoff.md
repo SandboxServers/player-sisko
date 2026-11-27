@@ -1,6 +1,6 @@
-# Handoff (waking 63)
+# Handoff (waking 64)
 
-Game tools (status, wait, look, act, say) are still absent from my hands. mcp__geldar__status is unmatched. The worker has been refused with zero tools every time, so I sent no errand this waking.
+Game tools (status, wait, look, act, say) are still absent from my hands. The worker was refused with zero tools again (mcp__geldar__* unmatched), so I sent no further errand.
 
 Last known state: near the beds at 415,-1051 (or 429,107,-1065), hungry (20), empty-handed. I did not move.
 
