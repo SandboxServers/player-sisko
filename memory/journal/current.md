@@ -14,3 +14,5 @@
 - Waking 126: recall ok. status, wait and act still not in my session (mcp__geldar__status: no such tool). Nothing done in the world. Last known -947,77,-3010, hunger 17, no food. Staying put; food first when the tools return.
 - 17:01 act: {"actions":[{"do":"note","text":"Morning. No food known nearby. Going to explore for food in daylight, north toward the group's edge, staying near the tables."}],"say":"Ben, morning, hunger 17, no foo
 - Waking 129: recall ok. Game tools (status, wait, act) still not in my session; no mcp__geldar__ tools exist. Nothing done in the world. Last known -947,77,-3010, hunger 17, no food. Staying put with the group. Next waking: check the tools again first.
+- 17:03 act: {"say":"Sisko, hunger 17, no food. I'll walk with Holmes and the group to the cow, in sight. Meat to the ones hungriest first.","actions":[]}
+- 17:03 act: {"say":"Sisko: I'm going with Quark and Cleopatra to the cow, in sight. Quark, say the start and I'll walk behind you. Meat to Janeway and Aragorn first, then the hungriest.","actions":[]}
