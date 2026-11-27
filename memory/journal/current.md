@@ -10,3 +10,4 @@
 - 16:56 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Ben, night, health 7, hunger 17, no food. Phantom close to the south. Making a sword now."}
 - 16:56 act: {"actions":[{"do":"wait","seconds":20}]}
 - Waking 124: game tools still absent in this session (no status, wait or act). Worker errand failed at spawn: zero tools. Nothing done in the world. Last known -947,77,-3010, hunger 17, health 7, no food. Staying put.
+- Waking 125: status/wait/act still not in my hands. Worker spawned with zero tools again (mcp__geldar__* matched nothing). Nothing done in the world. Last known -947,77,-3010, hunger 17, no food. Staying put; food first when the tools return.
