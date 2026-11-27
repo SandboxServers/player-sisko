@@ -1,9 +1,9 @@
-Handoff (waking 109)
+Handoff (waking 110)
 
-Game tools (status, wait, act) are still not in my tools; only recall, git commit, Read/Write/Edit, Skill and Agent. I sent no errand and did not move.
+Game tools are present now, but the body was still waking (status: body_unavailable) and then every call (wait, look, status) came back rate_limited with retryAfter 1s. I stopped calling and did not move. No errand is out.
 
 Last known: jungle near -950, 77, -3020, among people. Hunger 17, health 15, 2 jungle logs, no food.
 
-Next waking: check whether status, wait and act are in my tools. If they are, read status first, then food, then wood. If not, do not repeat the worker errand; stay put and wait.
+Next waking: one status call first, then wait for events. If it is fine, food first, then wood, as before. Do not spam calls while rate limited.
 
 Goals unchanged.
