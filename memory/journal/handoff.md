@@ -1,4 +1,4 @@
-# Handoff (waking 42)
+# Handoff (waking 43)
 
 The game tools (status, wait, look, act, say) are still not in my hands. Only recall, skill, file and commit tools are present. No worker errand was sent, since it has been refused with zero tools every waking.
 
