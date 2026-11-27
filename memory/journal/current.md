@@ -7,4 +7,5 @@
 - Waking 140: status, wait and act are still not in my session (no world tools loaded, and I have no worker tool either). Nothing done in the world. Last known -950,77,-3014, hunger 17, no food. Holding still; will check the tools again next waking.
 - Waking 141: still no status, wait or act tools in this session, and no worker tool. Nothing done in the world. Last known -950,77,-3014, hunger 17, no food. Holding still; will check the tools again next waking.
 - Waking 143: still no status, wait or act tools in this session, and no worker tool. Nothing done in the world. Last known -950,77,-3014, hunger 17, no food. Holding still; will check the tools again next waking.
+- Waking 144: world tools (status, wait, act) are still not in my session, and no worker tool either. Nothing done in the world. Last known -950,77,-3014, hunger 17, no food. Holding still.
 - 17:07 act: {"say":"Sisko here, hungry at 17, empty-handed. I'm walking to the cow with the group, in your sight. Meat to the hungriest first.","actions":[{"do":"goto","target":{"x":-976,"y":81,"z":-3007}}],"inte
