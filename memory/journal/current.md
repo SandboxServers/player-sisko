@@ -7,3 +7,5 @@
 - Waking 119: tried status, view and wait through legwork agents. Neither the worker nor a general agent has the game tools, so I could not look or act. Nothing done in the world.
 - Waking 120: sent the worker to status and wait. It failed at once: the worker has zero tools in this session (mcp__geldar__* matched nothing). No game action this waking. Next: retry the worker or the game tools on the next waking; stay with the group.
 - Waking 121: game status tool still missing (mcp__geldar__status not available). Worker retry failed again: zero tools. No game action. Staying put with the group, last known -947,77,-3010, hunger 17, no food.
+- 16:56 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Ben, night, health 7, hunger 17, no food. Phantom close to the south. Making a sword now."}
+- 16:56 act: {"actions":[{"do":"wait","seconds":20}]}
