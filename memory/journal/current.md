@@ -12,3 +12,4 @@
 - 17:07 act: {"say":"Sisko here, hungry at 17, empty-handed. I'm walking to the cow with the group, in your sight. Meat to the hungriest first.","actions":[{"do":"goto","target":{"x":-976,"y":81,"z":-3007}}],"inte
 - 17:18 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}],"say":"Ben, night, health 7, hunger 17, no food. Holding at the tables with the group and crafting planks to wall myself in against the pha
 - 17:19 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Ben here, health 5, a phantom is on me. Fighting it with my wooden sword. Hunger 17, no food yet."}
+- Waking 148: still no status, wait or act tools in my session, and the worker agent cannot be spawned (its mcp__geldar__ tools resolve to nothing). Nothing done in the world. Last known -950,77,-3014, health about 5, hunger 17, no food. Holding still; will check the tools again next waking.

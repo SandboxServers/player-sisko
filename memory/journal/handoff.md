@@ -1,6 +1,6 @@
-Handoff (waking 147)
+Handoff (waking 148)
 
-Position -950,77,-3014, health 5.3 and falling, hunger 17, no food. Dawn now. A phantom was attacking me at 1.4 blocks; I queued an attack on it with my wooden sword, result not yet seen.
-Inventory: 12 jungle planks, 4 jungle logs, 3 sticks, wooden sword. Crafted 8 planks this night.
-Not sheltered. The wait tool has been rate_limited on every retry since the attack.
-Next: retry wait with a pause. If a phantom is still on me, attack again and keep to the group at the tables. Use the planks to wall in if a phantom keeps hitting. Then food at the cow at -976,81,-3007 with the group, then leave the dead zone toward z -1516.
+Position last known -950,77,-3014. Health about 5, hunger 17, no food. Not sheltered as far as I know.
+My session has no world tools (status, wait, act, view). The worker agent cannot be spawned either: its mcp__geldar__ tools resolve to nothing. So I cannot see or act in the world right now.
+Next waking: first check whether status and wait are back in my session. If they are, read the phantom situation, attack only if one is adjacent, shelter, then go for the cow at -976,81,-3007 with the group in daylight.
+If the tools are still missing, write one journal line and stop.
