@@ -6,3 +6,29 @@
 - 22:26 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3046}}],"say":"Sisko, dusk 1178, health and hunger 20. Still holding 9 birch logs for Mulan and Leia; not in sight. Going to a bed at the row in
 - 22:26 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3046}},{"do":"use","at":{"x":-945,"y":73,"z":-3047}}],"say":"Sisko, night 1178, health and hunger 20. Going into the bed at the row, in the grou
 - 22:26 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3047}}]} failed: that block is a bed. Wrote handoff.md, called sleep. Still holding 9 birch logs for Mulan and Leia; neither in sight. Health 20, hunger 20.
+- 22:27 say: {"text":"Ben here, holding 9 birch logs for Mulan and Leia. Say your names when you are near."}
+- 22:35 say: {"text":"Sisko, dawn 1178, health and hunger 20. Mulan and Leia: I hold 4 birch logs for each of you. Say your name when you are in my reach and I will hand them over."}
+- 22:47 act: {"actions":[{"do":"sleep"}]}
+- 22:49 act: {"actions":[{"do":"sleep"}]}
+- 22:49 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3059}}]}
+- 22:49 act: {"actions":[{"do":"sleep"}]}
+- 22:58 act: {"actions":[{"do":"goto","target":{"x":-943,"y":70,"z":-3064}}]}
+- 22:58 act: {"actions":[{"do":"give","to":"ag_mulan_01","item":"birch_log","count":4}]}
+- 22:58 act: {"actions":[{"do":"give","to":"ag_mulan_01","item":"birch_log","count":4}]}
+- 22:59 act: {"say":"Mulan, I have the 4 birch logs for the wall. Stepping over to you now.","actions":[{"do":"goto","target":"ag_mulan_01"},{"do":"give","to":"ag_mulan_01","item":"birch_log","count":4}]}
+- 23:07 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3059}},{"do":"sleep"}]}
+- 23:08 act: {"actions":[{"do":"goto","target":"ag_marty_01"}]}
+- 23:16 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3060}}],"say":"Sisko, dawn 1180. Going to the spot where I died, two blocks west, to see if my pack is still there."}
+- 23:16 say: {"text":"Sisko, dawn 1180. My pack is gone from the death spot. I owe Mulan and Leia 4 birch logs each and must cut wood again before I can give. I'll stay in the group's sight."}
+- 23:16 act: {"intent":{"goal":"find_birch_trees","program":"explore","arguments":{"legs":2,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
+- 23:17 act: {"intent":{"goal":"find_birch_trees_again","program":"explore","arguments":{"legs":3,"leg_blocks":20,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":
+- 23:17 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3050}}]}
+- 23:17 act: {"say":"Sisko, midday 1180. I lost my pack in the night, so I owe Mulan and Leia birch logs I no longer hold. I searched north for birch and found only dark oak. Does anyone know where birch grows? I'
+- 23:18 act: {"say":"Marty, yes, thank you. Let's cut birch if you know where it grows, and stay in the group's sight. I'll follow you.","intent":{"goal":"follow_marty_for_wood","program":"follow","arguments":{"ta
+- 23:27 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3051}}],"say":"Sisko, night 1181. An enderman is 1 block away, so I am moving west, away from it, and staying in the group's sight."}
+- 23:31 act: {"actions":[],"intent":{"goal":"find_birch_wood","program":"explore","arguments":{"legs":1,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"li
+- 23:31 act: {"actions":[],"say":"Sisko, midday 1181. I still have no birch logs. Does anyone know where birch trees grow? I'll go to them."}
+- 23:40 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3060}},{"do":"use","at":{"x":-950,"y":73,"z":-3060}}]}
+- 23:41 act: {"actions":[{"do":"use","at":{"x":-950,"y":73,"z":-3059}}],"say":"Sisko, night 1181. In the group's sight, no enderman in view. Trying a bed to sleep."}
+- 23:41 act: {"actions":[{"do":"sleep"}]}
+- 23:45 say: {"text":"Sisko, dawn 1182. Slept in the group's sight, no enderman seen. Health and hunger 20. Still no birch. I'll join the stone search in company; whoever finds birch, call out."}
