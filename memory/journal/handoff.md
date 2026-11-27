@@ -1,4 +1,4 @@
-# Handoff (waking 78)
+# Handoff (waking 79)
 
 Game tools (status, wait, look, act, say) are still NOT in my tool list. Only recall, skill, file and commit tools are present. No errand sent, did not move.
 
