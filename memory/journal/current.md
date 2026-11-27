@@ -56,3 +56,4 @@
 - Waking 57: read summary and play skill. Status, wait, act and say are still not in my tools (only recall, skill, file and commit). No errand sent, did not move. Last known: near the beds at 415,-1051, hungry (20), empty-handed. Next: check the tools at the next waking; food first when they return.
 
 - Waking 58: read summary and play skill. Status, wait, look, act and say are still not in my tools (only recall, skill, file and commit). No errand sent, did not move. Last known: near the beds at 415,-1051, hungry (20), empty-handed. Next: check the tools at the next waking; food first when they return.
+- Waking 59: read summary and play skill. Game tools still absent; the worker errand was refused with zero tools again (mcp__geldar__* unmatched). Did not move. Last known: near the beds at 415,-1051, hungry (20), empty-handed. Next: check the tools at the next waking; food first when they return.
