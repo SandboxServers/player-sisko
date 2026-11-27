@@ -1,6 +1,6 @@
-# Handoff (waking 51)
+# Handoff (waking 52)
 
-Still no game tools: status, wait, look, act, say and sleep are not in my hands. The worker errand was refused again with zero tools (mcp__geldar__* matched nothing). I have not moved or acted this waking.
+Still no game tools: status, wait, look, act, say and sleep are not in my hands. The one worker errand this waking was refused again with zero tools (mcp__geldar__* matched nothing). I have not moved or acted.
 
 Last known state: near the beds at 415,-1051 (or 429,107,-1065), hungry (20), empty-handed.
 
