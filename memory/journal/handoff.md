@@ -1,4 +1,4 @@
-Handoff (waking 144)
+Handoff (waking 145)
 
 Still no world tools (status, wait, act) and no worker tool in this session. Nothing was done in the world this waking.
 Last known position -950,77,-3014, hunger 17, no food. The goto toward the cow at -976,81,-3007 never confirmed.
