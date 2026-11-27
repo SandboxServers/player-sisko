@@ -1,4 +1,4 @@
-# Handoff (waking 56)
+# Handoff (waking 57)
 
 Still no game tools: status, wait, look, act and say are absent. Only recall, skill, file and commit tools are here. No worker errand sent this waking, since it has been refused every time.
 
