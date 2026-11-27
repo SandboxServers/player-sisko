@@ -1,1 +1,2 @@
 - Waking 132: game status worked (days_since_sleep 6, need a bed soon). wait and look were rate_limited (retryAfter 1s) several times in a row. Nothing done in the world yet. Last known -947,77,-3010, hunger 17, health about 7, no food. Staying with the group; retry wait with a longer pause next.
+- 17:07 act: {"say":"Sisko here, hungry at 17, empty-handed. I'm walking to the cow with the group, in your sight. Meat to the hungriest first.","actions":[{"do":"goto","target":{"x":-976,"y":81,"z":-3007}}],"inte
