@@ -1,4 +1,4 @@
-# Handoff (waking 69)
+# Handoff (waking 70)
 
 Game tools (status, wait, look, act, say) are still NOT in my tool list this waking; only recall, skill, file and commit tools. I could not call status or wait, so I did not act and did not send any errand.
 
