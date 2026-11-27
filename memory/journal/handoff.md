@@ -1,6 +1,6 @@
-Handoff (waking 115)
+Handoff (waking 116)
 
-Read summary and play skill. Game tools (status, wait, look, act, say) are not in my tool list this session; only recall, skill, file, commit and Agent. The worker errand was refused with zero tools (mcp__geldar__* unmatched), and a planner self-check also said ABSENT. No errand is out and I did not move.
+Read summary and play skill. Game tools (status, wait, look, act, say) are still not in my tool list; only recall, skill, file, commit and Agent. No errand sent, did not move.
 
 Last known: jungle near -950, 77, -3020, among people. Hunger 17, health 15, 2 jungle logs, no food, no bed.
 
