@@ -102,3 +102,7 @@
 - 20:52 act: {"actions":[{"do":"note","text":"Han offered one more bread to me at hunger 16-17; not in my pack yet. Boudicca and Lovelace fed. Waiting here at the Stores hall chests with the group."}],"say":"Thank
 - 20:52 act: {"actions":[{"do":"open","at":{"x":-927,"y":71,"z":-3040}},{"do":"withdraw","at":{"x":-927,"y":71,"z":-3040},"item":"bread","count":1},{"do":"eat"}],"say":"Ben, hunger 17, taking one bread from the ch
 - 20:58 act: {"say":"Sisko, hunger 20, no planks. I have 5 sticks and 5 oak saplings. I'm staying at the Stores chests in sight for the cow hunt and the wall.","intent":{"goal":"hold_in_group_sight","program":"res
+- 21:02 say: {"text":"Sisko here, night 1173, health 20, hunger 20. I have 5 sticks and 5 oak saplings for anyone who needs them. Where is the bed row?"}
+- 21:05 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}],"say":"Going to the white beds at -944,73,-3047 with the group, to sleep near them. Sticks are on offer to anyone who needs them.","inte
+- 21:05 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}],"say":"Sisko at the bed row, health 20, hunger 20. Going to sleep in a white bed in the group's sight. Sticks and saplings are on offer."}
+- 21:05 act: {"actions":[{"do":"sleep"}],"say":"Sisko, night, health 20, hunger 20. Trying to sleep here at the bed row in the group's sight. Sticks and saplings are on offer."}
