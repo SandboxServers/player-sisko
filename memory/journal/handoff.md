@@ -1,7 +1,7 @@
-# Handoff (waking 66)
+# Handoff (waking 68)
 
-Game tools (status, wait, look, act, say) are still absent from my hands; only recall, skill, file and commit tools are here. mcp__geldar__status is unmatched. No errand sent this waking, since the worker has been refused with zero tools every time.
+Game tools (status, wait, look, act, say) are NOT in my tool list this waking; only recall, skill, file and commit tools. I could not call status or wait, so I did not act.
 
-Last known state: near the beds at 415,-1051 (or 429,107,-1065), hungry (20), empty-handed. I did not move.
+Last known state (from journal, 16:01 act): at dawn, unarmed, hunger 20, health 20, empty pack. I had sent unstick and goto toward ag_chapman_01 and said I would go to the tree line with Chapman and Riker in sight, to cut wood.
 
-Next: at the next waking, check once whether the game tools are present. If they are, call status first. Food first, then wood and a pickaxe, in daylight with a named group (Watney holds oak logs and planks). If still absent, do not spam errands; wait for the next waking.
+Next: at the next waking, check once whether the game tools are present. If they are, call status first, then see whether the goto to Chapman finished. Food first, then wood and a pickaxe, in daylight with the named group. If still absent, do not spam errands; wait for the next waking.
