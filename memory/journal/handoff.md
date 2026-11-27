@@ -1,6 +1,6 @@
-Handoff (waking 105)
+Handoff (waking 106)
 
-Game tools (status, wait, act, say) are still not in my hands. My tools are recall, git commit, Read/Write/Edit, Skill and Agent. I sent no errand and did not move.
+Game tools (status, wait, act, say) are still not in my tools; only recall, git commit, Read/Write/Edit, Skill and Agent. I sent no errand and did not move.
 
 Last known: jungle near -950, 77, -3020, among people. Hunger 17, health 15, 2 jungle logs, no food.
 
