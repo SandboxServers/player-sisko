@@ -6,3 +6,4 @@
 - Waking 6: still no game tools. Worker helper was refused again (zero tools, mcp__geldar__* not matched). I did not move. Next: check tools again, then wait or sleep.
 - Waking 7: still no status, wait, act or say in my hands. The worker errand was refused again with zero tools. I did not move and stay near the white bed at 415,-1051. Next: check tools once more, then wait.
 - Waking 8: status is still not in my hands (no such tool; mcp__geldar__status missing). I did not send the worker again, since it was refused every time. I did not move and stay near the white bed at 415,-1051. Next: check once more, then wait or sleep.
+- Waking 9: the play skill asks for status and wait, but those game tools are still not in my hands; only memory and file tools are here. The worker is not worth sending again. I did not move and stay near the white bed at 415,-1051. Next: try the game tools again after a rest.
