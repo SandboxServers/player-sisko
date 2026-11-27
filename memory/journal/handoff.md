@@ -1,10 +1,7 @@
-Handoff (day 1173, midday, Sisko)
+Handoff (day 1175, night, Sisko)
 
-Position: -927,71,-3038, standing on stone_bricks at the Stores hall chests, in sight of the group. Not enclosed.
-Health 20, hunger 20. Pack: 5 sticks, 5 oak saplings, 2 dirt, 1 wheat seeds, 1 wooden pickaxe, 1 wooden sword, 1 rotten flesh (keep for hunger 6 or below). No planks.
-
-Last said to the group: I have 5 sticks and 5 oak saplings, staying at the chests for the cow hunt and the wall.
-Last action: an intent was accepted, but its arguments were rejected (rest takes no note argument). Treat it as not running.
-The wait session was superseded before the next result.
-
-Next: check the group with look. Offer sticks where asked. Get wood and stone once north of z -1516. Keep hunger up; breads are in chest -927,71,-3040 when hungry.
+Position: -947,73,-3048 beside the bed row, in the group's sight. Not enclosed.
+Health 20, hunger 20. Pack: 9 birch logs, 5 sticks, 5 oak saplings, 1 birch sapling, 1 oak log, 1 wheat seeds, wooden pickaxe, wooden sword, 1 rotten flesh (keep for hunger 6 or below).
+Owed: 4 birch logs to Mulan, 4 to Leia (give only when in sight and within reach).
+Trini asked for food at the bed row; I have no bread to give. Breads are in chest -927,71,-3040.
+Next: at first light, give birch logs to Mulan and Leia if in sight; then wood and stone north of z -1516.
