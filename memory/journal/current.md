@@ -106,3 +106,4 @@
 - 21:05 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}],"say":"Going to the white beds at -944,73,-3047 with the group, to sleep near them. Sticks are on offer to anyone who needs them.","inte
 - 21:05 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}],"say":"Sisko at the bed row, health 20, hunger 20. Going to sleep in a white bed in the group's sight. Sticks and saplings are on offer."}
 - 21:05 act: {"actions":[{"do":"sleep"}],"say":"Sisko, night, health 20, hunger 20. Trying to sleep here at the bed row in the group's sight. Sticks and saplings are on offer."}
+- 21:06 say: {"text":"Sisko here, night 1174, health 20, hunger 20. Sleeping at the bed row in the group's sight. Holding 5 sticks and 5 oak saplings for anyone who asks."}
