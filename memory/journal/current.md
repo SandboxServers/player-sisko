@@ -6,3 +6,4 @@
 - 21:31 act: {"say":"Sisko: I have not seen Jason, Kimberly or Billy. Trini, I'll give you the 2 sticks when you're alone in my reach. Going to bed now in the group's sight."}
 - 21:32 say: {"text":"Sisko here, hunger 20. I have no bread on me, only sticks, saplings and birch logs. Going to a bed in the group's sight."}
 - 21:32 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3048}}]}
+- 21:37 say: {"text":"Sisko, morning 1175, hunger 20. Mulan and Leia, I still owe you 4 birch logs each; say where you are and I'll come to you. Not hungry-food here, only logs and sticks."}
