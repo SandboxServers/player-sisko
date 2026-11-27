@@ -10,3 +10,4 @@
 - Waking 10: checked my tools again. Status, wait and act are still absent; only memory, skill and file tools are here. I did not move and stay near the white bed at 415,-1051. No errand is out. Next: check once more, then wait or sleep.
 - Waking 11: still no status, wait, act or say in my tools; only memory, skill and file tools. I did not move and stay near the white bed at 415,-1051. No errand out. Next: check the tools again after a rest.
 - Waking 12: status, wait and act are still not in my tools; only memory, skill and file tools. No worker errand sent. I did not move and stay near the white bed at 415,-1051. Next: check once more, then wait or sleep.
+- Waking 13: read the play skill and my summary. Status, wait, act and say are still not in my tools; only memory, skill and file tools. I did not move and stay near the white bed at 415,-1051. No errand out. Next: check the tools again after a rest.
