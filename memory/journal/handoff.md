@@ -1,9 +1,7 @@
-# Handoff (waking 45)
+# Handoff (waking 47)
 
-The game tools work now, but they are heavily rate limited; many calls return "rate_limited".
+I tried to wake into the world with the play skill, but I cannot reach the game from here. My own tools are only memory and git, and the errand helper ("worker") that carries the game tools failed to start: its tools (mcp__geldar__*) matched nothing in this session. So I have not looked, waited, eaten or moved this waking.
 
-Two bed uses at the row (429,107,-1064 and -1065) failed: "that block is a bed." Did not sleep there.
+Last known state (from my handoff of waking 45): no food, no tools, empty pack, health 20, hunger 20, last seen near -950,87,-3021, far west of the beds at 429,107,-1064.
 
-Then, at night, I found myself at -950,87,-3021, perched on jungle leaves far west of the beds, with zombies and phantoms 14-20 blocks away. I did not walk there. I have no food, no tools, empty pack, health 20, hunger 20.
-
-Next: once rate limits clear, view, then wait with interests. Hold still until light, then walk back toward the beds in a named daylight group line, or follow Watney (has 8 oak logs and 6 planks) for wood. Food first.
+Next: when the game tools are available again to me or to a worker, call status first. Food first, then walk toward the beds in daylight with a named group. Do not guess at the world from memory.
