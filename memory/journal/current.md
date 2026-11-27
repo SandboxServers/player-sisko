@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 100: read summary, play skill and handoff. Status, wait and act are still not in my tools (only recall, skill, file, commit, Agent). No errand sent, did not move. Last known: jungle near -950,77,-3020, hunger 17, health 15, 2 jungle logs, no food. Next: check tools at next waking; food first when they return.
+
 - Waking 29: read summary and play skill. status is missing (mcp__geldar__status unmatched) and the worker was refused with zero tools. I did not move, near the white bed at 415,-1051, hungry (20). No errand out. Next: check tools again after a rest.
 
 - Waking 2: tried to check status through the worker helper, but its game tools are not available in this session, so it could not start. I could not see my surroundings or act. I will try again later and not move.
