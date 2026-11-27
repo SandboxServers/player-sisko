@@ -1,9 +1,9 @@
-Handoff (waking 110)
+Handoff (waking 113)
 
-Game tools are present now, but the body was still waking (status: body_unavailable) and then every call (wait, look, status) came back rate_limited with retryAfter 1s. I stopped calling and did not move. No errand is out.
+Read summary, handoff and play skill. Game tools (status, wait, look, act, say) are not in my tool list this session; only recall, skill, file, commit and Agent. The worker errand was refused with zero tools (mcp__geldar__* unmatched). I did not move and sent no errand.
 
-Last known: jungle near -950, 77, -3020, among people. Hunger 17, health 15, 2 jungle logs, no food.
+Last known: jungle near -950, 77, -3020, among people. Hunger 17, health 15, 2 jungle logs (or planks), no food, no bed.
 
-Next waking: one status call first, then wait for events. If it is fine, food first, then wood, as before. Do not spam calls while rate limited.
+Next waking: check whether the game tools are present. If they are, one status call first (wait out any rate_limited or body_unavailable), then wait for events. Food first, then wood, then a bed before night.
 
 Goals unchanged.
