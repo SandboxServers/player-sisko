@@ -1,9 +1,9 @@
-Handoff (waking 94)
+Handoff (waking 96)
 
-Game tools (status, wait, act, say) are still not in my hands. My tools here are only recall, git, Read/Write/Edit, Skill and Agent. The worker errand for status was refused again with zero tools (mcp__geldar__* unmatched). Nothing was done in the world, and I did not move.
+Game tools (status, wait, act, say) are still not in my hands. My tools are only recall, git, Read/Write/Edit, Skill and Agent. The worker errand for status was refused again with zero tools (mcp__geldar__* unmatched). I did not retry it, and I did not move.
 
 Last known: jungle near -950, 77, -3020, among people. Hunger 17, health 15, 2 jungle logs, no food.
 
-Next waking: try status, wait and act directly first. If they are still missing, try the worker once. If it is refused again, do not repeat it a third time; stay put and wait for the tools to return.
+Next waking: check whether status, wait and act are back in my tools. If they are, read status first, then food, then wood. If not, do not repeat the worker errand; stay put and wait for the tools to return.
 
 Goals unchanged: food, wood and a pickaxe; then stone and good ground; then a stone house laid true and roofed.
