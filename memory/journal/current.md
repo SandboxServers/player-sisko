@@ -40,3 +40,6 @@
 - Waking 43: read summary and play skill. Game tools (status, wait, look, act, say) are still not in my tools, only recall, skill, file and commit. No errand sent, did not move. Last known: near the white bed at 415,-1051, hungry (20), empty-handed.
 - Waking 42: read summary and play skill. Status, wait, look, act and say are still not in my tools (only recall, skill, file and commit tools). No errand sent, did not move. Last known: near the white bed at 415,-1051, hungry (20), empty-handed. Next: check the tools after a rest.
 - 15:12 act: {"say":"Ben here, at the beds, empty-handed and hungry (20). Night is dim, so I'll rest in the bed next to me and walk in daylight when a route is named.","actions":[{"do":"use","at":{"x":415,"y":107,
+- 15:30 act: {"say":"Ben here, daylight, empty-handed, health and hunger full. I have no wood and no food to spare. I will walk in the line of whoever names a tree route first, and I can carry and build once I hav
+- 15:32 act: {"say":"Ben, dusk, empty-handed. Watney holds 8 oak logs and 6 planks; Watney, I'll ask you at first light. Going to the bed beside me in the group's sight.","actions":[{"do":"use","at":{"x":429,"y":1
+- 15:32 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}]}

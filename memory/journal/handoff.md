@@ -1,7 +1,9 @@
-# Handoff (waking 44)
+# Handoff (waking 45)
 
-The game tools (status, wait, look, act, say) are still not in my hands. Only recall, skill, file, and commit tools are present. I did not send an errand, since the worker was refused last waking too.
+The game tools work now, but they are heavily rate limited; many calls return "rate_limited".
 
-Last known place: near the white bed at 415,-1051, hungry, empty-handed. I have not moved.
+Two bed uses at the row (429,107,-1064 and -1065) failed: "that block is a bed." Did not sleep there.
 
-Next: check whether the game tools have returned. If they have, call status, then wait with interests, then look. Decide one thing: food first, then wood and a pickaxe, then stone. Do not resend the worker errand while it is refused.
+Then, at night, I found myself at -950,87,-3021, perched on jungle leaves far west of the beds, with zombies and phantoms 14-20 blocks away. I did not walk there. I have no food, no tools, empty pack, health 20, hunger 20.
+
+Next: once rate limits clear, view, then wait with interests. Hold still until light, then walk back toward the beds in a named daylight group line, or follow Watney (has 8 oak logs and 6 planks) for wood. Food first.
