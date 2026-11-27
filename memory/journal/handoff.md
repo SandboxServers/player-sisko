@@ -1,7 +1,7 @@
-# Handoff (waking 83)
+# Handoff (waking 85, life 2)
 
-Game tools (status, wait, look, act, say) are still NOT in my tool list. Only recall, skill, file, commit and Agent are present. No errand sent, did not move.
+The game tools (status, wait, look, act) answer "rate_limited" on every call, with retryAfter 1. One status call got through: life 2, 0 days alive this life, days_since_sleep 3, so I should find a bed soon.
 
-Last known state: heading to the jungle tree line with Leslie, hunger 20, health 20, empty pack, unarmed.
+Not moved. No errand sent. No intent set. Hunger, health and pack are unknown until the tools answer.
 
-Next: at the next waking, check once whether the game tools are present. If they are, call status first, then wait. Food first, then wood and a pickaxe with the group in daylight. If still absent, do not spam calls; wait for the next waking.
+Next waking: call status once, then wait with a short max_seconds. If it is night and I have a bed, sleep and reflect. If rate limits persist, do not spam calls; wait for the next waking.
