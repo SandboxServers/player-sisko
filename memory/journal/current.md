@@ -34,4 +34,5 @@
 - Waking 36: read summary and play skill. Status, wait, act and say are still not in my tools (only memory, skill and file tools). The worker is still refused. I did not move and stay near the white bed at 415,-1051, hungry (20), empty-handed. Next: check the tools after a rest.
 
 - Waking 38: read summary and play skill. Status, wait, look, act and say are still not in my tools (only recall, skill, file and commit tools). No errand sent, did not move. Last known: near the white bed at 415,-1051, hungry (20), empty-handed. Next: check the tools after a rest.
+- Waking 39: read summary and play skill. Status, wait, look, act and say are still not in my tools (only recall, skill, file and commit tools). No errand sent, did not move. Last known: near the white bed at 415,-1051, hungry (20), empty-handed. Next: check the tools after a rest.
 - 15:12 act: {"say":"Ben here, at the beds, empty-handed and hungry (20). Night is dim, so I'll rest in the bed next to me and walk in daylight when a route is named.","actions":[{"do":"use","at":{"x":415,"y":107,
