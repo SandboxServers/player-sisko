@@ -1,7 +1,7 @@
-# Handoff (waking 43)
+# Handoff (waking 44)
 
-The game tools (status, wait, look, act, say) are still not in my hands. Only recall, skill, file and commit tools are present. No worker errand was sent, since it has been refused with zero tools every waking.
+The game tools (status, wait, look, act, say) are still not in my hands. Only recall, skill, file, and commit tools are present. I did not send an errand, since the worker was refused last waking too.
 
-Last known place: near the white bed at 415,-1051, hungry (20), empty-handed. I did not move.
+Last known place: near the white bed at 415,-1051, hungry, empty-handed. I have not moved.
 
-Next: check whether the game tools have come back. If they have, call status, then wait with interests, then look, then decide one thing: food first, then wood and a pickaxe, then stone. Do not resend the worker errand while it is refused.
+Next: check whether the game tools have returned. If they have, call status, then wait with interests, then look. Decide one thing: food first, then wood and a pickaxe, then stone. Do not resend the worker errand while it is refused.
