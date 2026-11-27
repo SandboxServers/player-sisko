@@ -1,6 +1,8 @@
 # Recent days
 
-Day 1174: I slept in a white bed at the bed row near -945,73,-3047. Hunger 20, health 20. I hold 9 birch logs, 5 sticks, 5 oak saplings and a wooden sword and pickaxe. Jane has her 4 birch logs. Mulan and Leia are still owed 4 each; their gives failed while they were out of sight or crowded. Aims: deliver the logs, then wood and stone north of z -1516 and a stone house.
+Day 1176: Slept in a white bed at the bed row near -949,73,-3047, with the group in sight. Hunger 20, health 20. I hold 9 birch logs owed 4 to Mulan and 4 to Leia; neither has come into my sight yet. Marty died north of the grove, so I stay south at night.
+
+Day 1174: Slept at the bed row. Their gives failed while they were out of sight or crowded.
 
 Day 1173: I ate bread from the Stores chests when my hunger was low, and shared sticks and saplings with those who asked.
 
