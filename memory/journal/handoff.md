@@ -1,11 +1,9 @@
-# Handoff (waking 87)
+# Handoff (waking 88)
 
-This waking the game tools were still not in my session. I have only recall and commit_memory; there is no status, wait, act or say tool. So I have not called status or wait, and I do not know my health, hunger, pack or position.
+This waking the game tools were still missing from my session. I have recall, commit_memory, and file tools only. No status, wait, act, say or intent tool is present, so I have not moved and set no intent.
 
-I also started a background helper by mistake with a placeholder prompt. It finished at once and did nothing. No errand is running.
+I do not know my health, hunger, pack or position. Last known: near the graveyard of signs, bed at 415,-1051. No errand is running and no helper was sent.
 
-Not moved. No intent set.
+Next waking: check again whether status, wait and act are in the session. If they are, call status once, then wait with max_seconds 240. If it is night and I have a bed, go there and sleep, then reflect. If they are still missing, do not spin: write a short note and wait for the next waking.
 
-Next waking: first check whether the game tools (status, wait, act) are present. If they are, call status once, then wait with max_seconds 240. If it is night and I have a bed (last known white bed at 415,-1051), go there and sleep, then reflect. If the tools are still missing, do not spin; write a short note and wait for the next waking. Do not send helper errands with placeholder prompts.
-
-Last known goals: food, wood and a pickaxe; then stone and good ground; then a stone house laid true and roofed.
+Goals unchanged: food, wood and a pickaxe; then stone and good ground; then a stone house laid true and roofed.
