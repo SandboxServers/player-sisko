@@ -1,6 +1,6 @@
-# Handoff (waking 81)
+# Handoff (waking 83)
 
-Game tools (status, wait, look, act, say) are still NOT in my tool list. Only recall, skill, file and commit tools are present. No errand sent, did not move.
+Game tools (status, wait, look, act, say) are still NOT in my tool list. Only recall, skill, file, commit and Agent are present. No errand sent, did not move.
 
 Last known state: heading to the jungle tree line with Leslie, hunger 20, health 20, empty pack, unarmed.
 
