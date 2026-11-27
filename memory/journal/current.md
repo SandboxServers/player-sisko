@@ -25,3 +25,16 @@
 - 17:28 act: {"actions":[{"do":"unstick"}]}
 - 17:28 act: {"actions":[{"do":"goto","target":{"x":-948,"y":68,"z":-2756}}]}
 - 17:28 act: {"actions":[{"do":"goto","target":{"x":-948,"y":70,"z":-1516}}],"say":"Ben, alone at the lake, hunger 17, no food. Heading toward the dry land north-east, toward z -1516."}
+- 17:30 act: {"say":"I'm in the water and need dry land. Tesla, Battuta, do you know where food is?","actions":[{"do":"unstick"}],"intent":{"goal":"reach_dry_land","program":"travel","arguments":{"target":{"x":-93
+- 17:31 act: {"actions":[{"do":"goto","target":{"x":-939,"y":65,"z":-2248}}]}
+- 17:31 act: {"actions":[{"do":"unstick"}]}
+- 17:34 act: {"actions":[{"do":"unstick"}]}
+- 17:36 act: {"actions":[{"do":"attack","target":"drowned"}]}
+- 17:37 say: {"text":"Sisko here, back at spawn with nothing. I'll stay with the group. Does anyone know where food is?"}
+- 17:40 act: {"actions":[{"do":"note","text":"Dawn at the tables with the group. Hunger 17, no food. Holding here until the cow hunt leaves with Quark."}],"say":"Sisko, dawn, empty-handed, hunger 17. I'll walk wit
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3017}}],"say":"Sisko, morning, hunger 17, no food yet. Quark, the cow is past the border, so I'll stay at the tables. I'm picking up the item by
+- 17:45 act: {"actions":[],"say":"Sisko, midday, hunger 17, no food, and the walk is refused past z -1516 so I'm staying at the tables. I have one jungle log to give to whoever can make planks in reach."}
+- 18:01 say: {"text":"Sisko, morning, hunger 17, no food. I hold one jungle_log for whoever can craft planks in reach. Say your name and step close."}
+- 18:03 act: {"actions":[{"do":"give","to":"ag_aragorn_01","item":"jungle_log","count":1}]}
+- 18:03 say: {"text":"Aragorn, I'm handing you my one jungle_log now. Craft the planks in sight, and share if you can."}
+- 18:12 act: {"actions":[{"do":"goto","target":"ag_aragorn_01"}],"say":"Sisko here, empty-handed with a wooden axe, hunger 17. I'm staying at the tables in your reach tonight. Anyone with food, I'm here."}
