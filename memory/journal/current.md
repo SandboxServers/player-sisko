@@ -12,3 +12,4 @@
 - Waking 124: game tools still absent in this session (no status, wait or act). Worker errand failed at spawn: zero tools. Nothing done in the world. Last known -947,77,-3010, hunger 17, health 7, no food. Staying put.
 - Waking 125: status/wait/act still not in my hands. Worker spawned with zero tools again (mcp__geldar__* matched nothing). Nothing done in the world. Last known -947,77,-3010, hunger 17, no food. Staying put; food first when the tools return.
 - Waking 126: recall ok. status, wait and act still not in my session (mcp__geldar__status: no such tool). Nothing done in the world. Last known -947,77,-3010, hunger 17, no food. Staying put; food first when the tools return.
+- 17:01 act: {"actions":[{"do":"note","text":"Morning. No food known nearby. Going to explore for food in daylight, north toward the group's edge, staying near the tables."}],"say":"Ben, morning, hunger 17, no foo
