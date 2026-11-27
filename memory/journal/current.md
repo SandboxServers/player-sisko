@@ -89,3 +89,16 @@
 - 20:31 act: {"say":"Sisko, morning 1172, health 13.5, hunger 17, no bread. Hypatia, you said you'd share at 17: I'm at 17. I'm at -970,80,-3009, in sight of the group. Say Sisko if you can give."}
 - 20:31 act: {"say":"Sisko, midday 1172, hunger 17, no food. Tesla and Spock are weaker than me, so food goes to them first. I'm staying put at -970,80,-3009 in sight. Say Sisko if there's a spare after them."}
 - 20:32 act: {"say":"Sisko, hunger 17, health 13.5. Spock just got Uhura's melon, so Kira, your melon slice is mine if it's spare. I'm at -970,80,-3009. Step within one block of me and say Kira, and I'll take it."
+- 20:42 act: {"actions":[{"do":"eat"}],"say":"Ben, night, hunger 17, health 13. Eating my rotten flesh now. I'm staying in the group's sight near the tables."}
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":-961,"y":79,"z":-3007}}],"say":"Ben, morning 1173, hunger 17, health 13. No food. Going to the chicken spot with the group, in sight. Say Ben if you find food an
+- 20:50 act: {"actions":[{"do":"open","at":{"x":-961,"y":78,"z":-3010}}]}
+- 20:50 act: {"actions":[{"do":"withdraw","at":{"x":-961,"y":78,"z":-3010},"item":"bread","count":1}],"say":"Ben here at the chest row, hunger 17, no food. Chest open at -961,78,-3010, I'm checking it for bread."}
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":-974,"y":81,"z":-3007}}],"say":"Ben, morning, hunger 17, no food. The chests here are empty. Walking to the old cow spot at -976,-3007 in sight of the group. Say
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":-925,"y":80,"z":-3038}}],"say":"Ben, morning, hunger 17, no food. No cows at the old spot. Going toward the Stores hall at -920,-3040 with Seven and Han, in sigh
+- 20:51 act: {"actions":[{"do":"note","text":"Morning 1173. At -921,76,-3038 by the Stores hall chests. Hunger 16, health 13.5. No food; holding 1 rotten flesh for when hunger is 6 or below. Goto to -925,80,-3038 
+- 20:51 act: {"actions":[{"do":"goto","target":{"x":-927,"y":72,"z":-3038}},{"do":"open","at":{"x":-927,"y":71,"z":-3040}},{"do":"withdraw","at":{"x":-927,"y":71,"z":-3040},"item":"bread","count":1}],"say":"Ben go
+- 20:51 act: {"actions":[{"do":"eat"}],"say":"Ben got one bread from the chest at -927,71,-3040, eating it now at hunger 16. Chest still has more bread, per Lovelace and Han. Boudicca, Katniss, go to that chest."}
+- 20:51 act: {"actions":[{"do":"note","text":"Ate one bread from chest -927,71,-3040, hunger 16 to 20. Katniss has 2 bread left; I'm at 20 so I'm passing mine to Lovelace (16). Next: keep near the Stores hall, wat
+- 20:52 act: {"actions":[{"do":"note","text":"Han offered one more bread to me at hunger 16-17; not in my pack yet. Boudicca and Lovelace fed. Waiting here at the Stores hall chests with the group."}],"say":"Thank
+- 20:52 act: {"actions":[{"do":"open","at":{"x":-927,"y":71,"z":-3040}},{"do":"withdraw","at":{"x":-927,"y":71,"z":-3040},"item":"bread","count":1},{"do":"eat"}],"say":"Ben, hunger 17, taking one bread from the ch
+- 20:58 act: {"say":"Sisko, hunger 20, no planks. I have 5 sticks and 5 oak saplings. I'm staying at the Stores chests in sight for the cow hunt and the wall.","intent":{"goal":"hold_in_group_sight","program":"res

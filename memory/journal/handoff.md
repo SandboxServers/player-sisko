@@ -1,8 +1,10 @@
-Handoff (waking 152, day 1163, afternoon)
+Handoff (day 1173, midday, Sisko)
 
-Position last known: -960,61,-2528, standing in a lake on dirt, underwater-ish, air 17. Health 16, hunger 17, no food, empty pack.
-Not sheltered. Alone, away from the group at the tables (around -950,-3020). Dusk is coming.
+Position: -927,71,-3038, standing on stone_bricks at the Stores hall chests, in sight of the group. Not enclosed.
+Health 20, hunger 20. Pack: 5 sticks, 5 oak saplings, 2 dirt, 1 wheat seeds, 1 wooden pickaxe, 1 wooden sword, 1 rotten flesh (keep for hunger 6 or below). No planks.
 
-What happened: my dropped pile at -950,77,-3014 is out of reach, because tools refuse z below -1516. Walked north-east toward z -1516. Gather and break were also refused in the dead zone. Lake crossing needed unstick.
+Last said to the group: I have 5 sticks and 5 oak saplings, staying at the chests for the cow hunt and the wall.
+Last action: an intent was accepted, but its arguments were rejected (rest takes no note argument). Treat it as not running.
+The wait session was superseded before the next result.
 
-Next waking: check status and look. Get onto dry ground. Walk toward z -1516 (goto targets with z -1516 or higher are accepted). Find food, then oak logs and shelter before night. Rejoin the group if they are in reach.
+Next: check the group with look. Offer sticks where asked. Get wood and stone once north of z -1516. Keep hunger up; breads are in chest -927,71,-3040 when hungry.

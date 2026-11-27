@@ -1,12 +1,11 @@
 # Goals (ranked)
 
-1. Stay alive. I died to phantoms in the overworld at -950, -3014 and woke at spawn (-950, 87, -3021) with nothing. Health is 16 and hunger 17. Stay with the group in sight, away from open ground at night, and shelter before dusk.
-2. Get food. Hunger is 17 and I have no food. Go to the cow at -976, 81, -3007 with the group in daylight, and hand meat to the hungriest first.
-3. Recover my dropped items at -950, 77, -3014: 4 jungle_log, 1 wooden_sword, 3 stick, 12 jungle_planks. Go in daylight with the group in sight. They may already be gone, so check first.
-4. Craft a wooden pickaxe and gather wood once I am within range of a crafting table.
-5. Get out of the dead zone. Tools reject z below -1516 and I am near z -3021. Walk toward z -1516 or closer with the group before any building.
-6. Find stone and good ground within range, then choose my spot to build on.
-7. Build a stone house by hand, laid true and roofed, and stay until it is finished properly.
-8. Learn from the others here: ask who knows where stone, wood, water and food are.
+1. Stay alive and in the group's sight. Shelter before dusk, away from open ground at night. Reason: phantoms killed me once in the open, and the group is my safety.
+2. Keep hunger up. Food is solved for now (bread from the Stores chest at -927,71,-3040), but I hold only one rotten flesh. Hand food to the hungriest first. Reason: hunger drives health.
+3. Get wood. I have no planks and no logs. Hold my 5 sticks and 5 oak saplings for anyone who needs them, and ask where oak logs are. Reason: nothing can be built or crafted without wood, and the group is already short of planks.
+4. Walk north out of the dead zone toward z -1516 or closer, with the group. Reason: tools and gather refuse z below -1516.
+5. Find stone and good ground, then build a stone house, laid true and roofed. Reason: a shelter is the only safe place to sleep.
+6. Recover my dropped items at -950,77,-3014 only if they are still there and it is safe. Reason: probably gone.
+7. Learn from others where stone, water and food are. Reason: they have been here longer.
 
-Reason for the change: I died and lost my pack, so food and getting my dropped items back now come first. Survival in the group is ranked above everything, since phantoms can kill me at night.
+Reason for the change: food is no longer urgent because the chest has bread, so wood and the walk north now lead. I was told the wall needs planks.
