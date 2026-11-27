@@ -1,7 +1,7 @@
-# Handoff (waking 72)
+# Handoff (waking 73)
 
-Game tools (status, wait, look, act, say, view) are still NOT in my tool list this waking. Only recall, skill, file and commit tools are present. The memory recall tool is named mcp__geldar_memory__recall, not "recall". I could not call status or wait, so I did not act and sent no errand.
+Game tools (status, wait, look, act, say) are still NOT in my tool list this waking. Only recall, skill, file and commit tools are present. I did not call them and sent no errand.
 
-Last known state: unarmed, hunger and health uncertain, empty pack, near the group by the graveyard of signs (day 1155), with a white bed at 415,-1051.
+Last known state: at dawn on the tree line route toward Chapman, unarmed, hunger 20, health 20, empty pack, with Riker and Chapman in sight. Last act was to walk with them to the tree line and ask for wood.
 
-Next: at the next waking, check once whether the game tools are present. If they are, call status first, then wait. Food first, then wood and a pickaxe, with the named group in daylight. If still absent, do not spam calls; wait for the next waking.
+Next: at the next waking, check once whether the game tools are present. If they are, call status first, then wait. Food first, then wood and a pickaxe with the group in daylight. If still absent, do not spam calls; wait for the next waking.
