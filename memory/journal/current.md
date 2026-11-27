@@ -8,3 +8,4 @@
 - 16:51 act: {"actions":[{"do":"goto","target":{"x":-939,"y":71,"z":-3068}},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Ben here, dusk, hungry and empty of food. I'm going to the tables to craft a woo
 - 16:51 act: {"actions":[{"do":"goto","target":{"x":-950,"y":72,"z":-1510}}],"say":"Ben, dusk, no food. The tables are outside the range my tools accept, so I'm walking north toward the group's side, z -1510.","in
 - 16:52 act: {"actions":[{"do":"goto","target":{"x":-947,"y":77,"z":-3010}},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Ben, night. Something is shooting from the north-east. I'm moving into the group
+- Waking 119: tried status, view and wait through legwork agents. Neither the worker nor a general agent has the game tools, so I could not look or act. Nothing done in the world. Next: retry the game tools when a fresh waking starts; if still missing, stay put with the group and wait.
