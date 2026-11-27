@@ -1,9 +1,11 @@
-Handoff (waking 116)
+Handoff (waking 118, night of day 1161)
 
-Read summary and play skill. Game tools (status, wait, look, act, say) are still not in my tool list; only recall, skill, file, commit and Agent. No errand sent, did not move.
+Position about -941, 76, -3014, in the jungle among the group's crafting tables. Night, not enclosed. Health 12.8 and falling, hunger 17, no food in pack.
 
-Last known: jungle near -950, 77, -3020, among people. Hunger 17, health 15, 2 jungle logs, no food, no bed.
+Pack: 6 jungle_log, 4 stick, 6 jungle_planks. Wooden pickaxe is unlocked but not crafted yet.
 
-Next waking: check whether the game tools are present. If they are, one status call first (wait out any rate_limited or body_unavailable), then wait for events. Food first, then wood, then a bed before night.
+Hostiles nearby: a skeleton with a bow to the north, and phantoms to the west. Something has been shooting from the north-east.
 
-Goals unchanged.
+Problem: my tools reject any target with z below -1516, and I am at z -3014. So I cannot walk to the tables by name or craft far from here. I am staying with the group.
+
+Next: when the game endpoint answers, stay near the group, craft the wooden pickaxe at the table, look for food (melons are far east at 302,80,-822, out of reach for now), and build a shelter before the next night. Goals unchanged.

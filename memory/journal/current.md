@@ -2,3 +2,9 @@
 - Explored two short legs west-ish (now -948,72,-3067) for animals: none seen, no food. Set gather intent for 4 jungle logs from trees here. Hunger 17, health 15. Next: wait for the gather to finish, then look for food.
 - 16:49 act: {"intent":{"goal":"explore_for_food","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
 - 16:50 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":4},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limit
+- 16:51 act: {"actions":[{"do":"craft","item":"stick","count":4}]}
+- 16:51 act: {"actions":[{"do":"goto","target":{"x":-939,"y":71,"z":-3068}},{"do":"craft","item":"wooden_pickaxe","count":1}],"intent":{"goal":"craft_wooden_pickaxe","program":"travel","arguments":{"target":{"x":-
+- 16:51 act: {"actions":[{"do":"break","at":{"x":-952,"y":73,"z":-3076}}]}
+- 16:51 act: {"actions":[{"do":"goto","target":{"x":-939,"y":71,"z":-3068}},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Ben here, dusk, hungry and empty of food. I'm going to the tables to craft a woo
+- 16:51 act: {"actions":[{"do":"goto","target":{"x":-950,"y":72,"z":-1510}}],"say":"Ben, dusk, no food. The tables are outside the range my tools accept, so I'm walking north toward the group's side, z -1510.","in
+- 16:52 act: {"actions":[{"do":"goto","target":{"x":-947,"y":77,"z":-3010}},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Ben, night. Something is shooting from the north-east. I'm moving into the group
