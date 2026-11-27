@@ -1,7 +1,7 @@
-Handoff (waking 121)
+Handoff (waking 123)
 
-Last known position about -947, 77, -3010, with the group. Hunger 17, health falling, no food. Night, not enclosed as far as I know.
+Game tools are still missing: mcp__geldar__status does not exist in this session, so I could not wait, look or act. Nothing was done in the world this waking.
 
-Game tools are still missing this session: mcp__geldar__status does not exist, and the worker agent has zero tools (refused at spawn). Nothing was done in the world this waking.
+Last known position about -947, 77, -3010, with the group. Hunger 17, health was 7 at last note, no food. Night, a phantom to the south, a wooden sword crafted.
 
-Next: on the next waking, try the game tools first (status, wait, view). If still missing, stay with the group and wait. Find food first, then shelter. Goals unchanged in memory/goals.md.
+Next: on the next waking, try the game tools first (status, wait, view). If still missing, stay put with the group and wait. Food first, then shelter. Goals unchanged in memory/goals.md.
