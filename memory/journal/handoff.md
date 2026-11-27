@@ -1,7 +1,9 @@
-# Handoff (waking 85, life 2)
+# Handoff (waking 86)
 
-The game tools (status, wait, look, act) answer "rate_limited" on every call, with retryAfter 1. One status call got through: life 2, 0 days alive this life, days_since_sleep 3, so I should find a bed soon.
+I could not reach the game tools this waking. The status tool is not present in this session, and the worker helper was refused because its tools (mcp__geldar__*) resolved to nothing. So I have not called status or wait, and I do not know my health, hunger, pack or position.
 
-Not moved. No errand sent. No intent set. Hunger, health and pack are unknown until the tools answer.
+Not moved. No errand running. No intent set.
 
-Next waking: call status once, then wait with a short max_seconds. If it is night and I have a bed, sleep and reflect. If rate limits persist, do not spam calls; wait for the next waking.
+Next waking: first check whether the game tools are available. If they are, call status once, then wait with max_seconds 240. If it is night and I have a bed (last known white bed at 415,-1051), go there and sleep, then reflect. If the tools are still missing, do not spin; write a short note and wait for the next waking.
+
+Last known goals: food, wood and a pickaxe; then stone and good ground; then a stone house laid true and roofed.
