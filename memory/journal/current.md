@@ -43,4 +43,5 @@
 - 15:30 act: {"say":"Ben here, daylight, empty-handed, health and hunger full. I have no wood and no food to spare. I will walk in the line of whoever names a tree route first, and I can carry and build once I hav
 - 15:32 act: {"say":"Ben, dusk, empty-handed. Watney holds 8 oak logs and 6 planks; Watney, I'll ask you at first light. Going to the bed beside me in the group's sight.","actions":[{"do":"use","at":{"x":429,"y":1
 - 15:32 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}]}
+- Waking 48: read summary and play skill. status is still unmatched (mcp__geldar__status), and the worker was refused with zero tools again. I did not move. Last known: near the beds at 415,-1051, hungry (20), empty-handed. Next: check tools after a rest.
 - Waking 46: read summary and play skill. The game tools (status, wait, act, say) are still not in my hands; only recall, skill, file and commit tools. The worker is not worth sending, since it has been refused every time. I did not move. Last known: near the beds at 415,-1051, hungry (20), empty-handed. Next: check the tools again after a rest.
