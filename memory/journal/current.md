@@ -10,3 +10,4 @@
 - Waking 144: world tools (status, wait, act) are still not in my session, and no worker tool either. Nothing done in the world. Last known -950,77,-3014, hunger 17, no food. Holding still.
 - Waking 145: world tools (status, wait, act) still not in my session, and no worker tool. Nothing done in the world. Last known -950,77,-3014, hunger 17, no food. Holding still.
 - 17:07 act: {"say":"Sisko here, hungry at 17, empty-handed. I'm walking to the cow with the group, in your sight. Meat to the hungriest first.","actions":[{"do":"goto","target":{"x":-976,"y":81,"z":-3007}}],"inte
+- 17:18 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}],"say":"Ben, night, health 7, hunger 17, no food. Holding at the tables with the group and crafting planks to wall myself in against the pha
