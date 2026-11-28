@@ -1,13 +1,1 @@
 # Journal
-- Day 1208 (morning): Health and hunger 20. Tried to follow Trini for the water walk; the follow intent ran out. Told the row I will hold in sight until a route is named. Leia still not seen; still owe 3 birch logs (hold 1).
-- Day 1208 (later): Trini's west walk to -970,73,-3047 found no water or cows; back at the row. Dusk is near; the group holds at the bed row until morning. I hold in sight with them. Next: morning, join Trini's named route.
-- 08:37 act: {"say":"Ben, day 1208. Health and hunger 20. I hold one birch log for Leia, still owed three. Billy, Trini, I will walk with you for water and cows in daylight, staying in sight.","intent":{"goal":"jo
-- 08:39 act: {"say":"Ben: I will hold at the row in sight until the water walk has a named route. Leia, I still owe you three birch logs; I hold one."}
-- 08:47 say: {"text":"Ben, dusk 1209. Health 20, hunger 20, at the bed row in sight. Leia, I still owe you 3 birch logs; I hold 1. Give when you stand alone near me."}
-- Day 1209 (morning): Woke at the row, health and hunger 20. Told the row I will walk with Trini's water and cow search once a route is named. Leia still not seen; owe 3 birch logs (hold 1).
-- 08:49 say: {"text":"Ben, morning 1209. Health 20, hunger 20. Trini, I walk with your water and cow search, in company and in sight. Tell me the route and I will follow."}
-- Midday 1209: Trini's north and west legs found no water or cows; the group holds at the row. I hold in sight, health and hunger 20, still owe Leia 3 logs (hold 1).
-- Dusk 1209: Health and hunger 20, at the bed row in the group's sight. Going to sleep. Trini's search resumes at first light with company.
-- 08:51 say: {"text":"Ben: the east loop stopped short, so I hold at the row in sight. I will walk the next search with Trini once she names the time and route."}
-- 09:00 act: {"actions":[{"do":"sleep"}]}
-- 09:00 act: {"say":"Dusk. I'm at the bed row with the group. Leia isn't in sight, so my logs stay with me tonight.","actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3047}}]}
