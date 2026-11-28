@@ -12,3 +12,5 @@
 - Day 1214: Trini's west leg (to -962,73,-3051) found no water or cows. Next leg is north-east, not named yet. I hold at the row.
 - 10:21 act: {"say":"Ben, morning 1213, health and hunger 20, at the row in sight. I hold here. Trini, if you name a leg I will walk it in your sight."}
 - 10:34 act: {"say":"Ben here, morning, at the row with the group. I hold 1 birch log for Leia. Nobody leaves alone from me.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_add
+- 10:57 act: {"say":"Ben here, at the row with the group, health and hunger 20. Holding until night, then I sleep in a bed."}
+- 10:59 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3047}}],"say":"Ben, night 1215. Health and hunger 20. Going to sleep in a bed at the row, in the group's sight. Nobody alone.","intent":{"goal":
