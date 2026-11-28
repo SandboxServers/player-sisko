@@ -12,3 +12,5 @@
 - 03:35 say: {"text":"Mulan, I will give the 4 birch logs when the crowd steps off the line. Say the word when you are alone."}
 - 03:36 act: {"actions":[{"do":"give","to":"mulan","item":"birch_log","count":4}]}
 - 03:44 act: {"actions":[{"do":"sleep"}]}
+- 03:45 act: {"actions":[{"do":"note","text":"Dusk 1194 at the bed row, health and hunger 20, group in sight. Sleeping here; Mulan and Leia's birch logs still owed. Gives to Mulan keep failing in the crowd, so I did not try again this dusk. Sleep queued."}]}
+- 03:45 act: {"actions":[{"do":"sleep"}]}
