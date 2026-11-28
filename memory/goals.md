@@ -1,4 +1,4 @@
-# Goals (ranked, night 1199)
+# Goals (ranked, night 1201)
 
 1. Keep hunger up. Eat bread from the Stores chests (-927,71,-3040) when hungry, weakest first. Reason: food runs out fast.
 2. Deliver birch logs: 4 to Mulan, 4 to Leia. I hold 5. Give only when the one named stands alone within reach; walk to them if they call. Reason: I promised them.
