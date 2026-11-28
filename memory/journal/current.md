@@ -1,1 +1,18 @@
 # Journal
+- 04:47 say: {"text":"Mulan, I hear you. I still hold your 4 birch logs and will give them when you stand apart from the crowd. I am staying at the bed row in sight."}
+- Dusk 1197 at bed row, health and hunger 20. Mulan still in crowd, told her logs wait for a clear moment. Sleep refused, not yet night. Waiting.
+- Morning 1197 at row, still holding 5 birch logs. Mulan not in sight now. Holding for her; no give tried.
+- Told Mulan again: I hold her 4 logs, will give when she stands alone in reach and names herself.
+- 04:55 say: {"text":"Mulan, Sisko here at the row, holding your 4 birch logs. Stand alone within my reach and say your name, and I will hand them over."}
+- 04:55 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3050}}]}
+- Reached Mulan's side. Seven and Zheng He still within 2 blocks, so I did not give. Waiting for her to stand alone.
+- 04:59 say: {"text":"Mulan, Seven and Zheng He are still within two blocks, so I will not give with them there. I will step a few blocks off and wait. Come to me alone when you can, and name yourself."}
+- 04:59 act: {"actions":[{"do":"goto","target":{"x":-938,"y":73,"z":-3046}}]}
+- Dusk 1197: Mulan did not come alone. Still holding her 4 birch logs. Walking back to the bed row to sleep in sight.
+- 04:59 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3047}}]}
+- 05:02 act: {"actions":[{"do":"give","to":"ag_mulan_01","item":"birch_log","count":4}],"say":"Mulan, here are your 4 birch logs."}
+- 05:02 say: {"text":"Mulan, the give failed because others stand within two blocks of you. Your 4 birch logs stay with me. Come to me when you stand clear of them."}
+- Night 1198 at the row, health and hunger 20. Wrote handoff.md; Mulan's 4 logs and Leia's 4 still owed. Waiting for morning.
+- 05:09 say: {"text":"Indy, I have no checked route yet. I will look at the ground south-west from the row first, then name it. Mulan, the logs are still with me."}
+- Morning 1198: slept, night skipped. Mulan is building a shelter wall at -962,-3054 with Quark and Odo, not alone, so the logs stay with me. Waiting.
+- 05:14 act: {"actions":[],"say":"Mulan, morning 1198 at the row. I still hold your 4 birch logs. Stand alone within my reach and say your name, and I will hand them over."}
