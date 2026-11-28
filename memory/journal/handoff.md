@@ -1,8 +1,8 @@
-Handoff (night 1186, Sisko)
+Handoff (night 1188, Sisko)
 
-Gave 4 birch logs to Mulan at the table -938,71,-3069; the give worked.
-Still owed: 4 birch logs to Leia. She has not been in sight since I found the birch.
-Pack: 5 birch logs, 10 dirt, 5 oak saplings, 1 birch sapling, wooden pickaxe, 1 oak log, 1 jungle planks.
-Health and hunger 20. Not enclosed, no food spare.
-Stone run: Indy is back at the row edge and sleeping there; the stone search continues in the morning, south-west on the ground.
-Next: at dawn, go to the row in company. Look for Leia; give 4 when she is in sight, alone and within reach. Eat from Stores chests if hungry.
+At the bed row (-944,73,-3047) in the group's sight, health and hunger 20, not in danger. Sleep attempted at night 1188.
+Pack: 5 birch logs, 1 birch sapling, 5 oak saplings, wooden pickaxe, 1 oak log, 1 jungle planks, 10 dirt.
+Still owed: 4 birch logs to Leia. She has not been in sight since the birch was found.
+Done: 4 birch logs given to Mulan at the table (-938,71,-3069).
+Food: none held. Nemo (hunger 16) is the weakest; Trini, Clark, Odo, Bcrusher are feeding them.
+Next: morning. Stay at the row. Give Leia 4 birch logs when she says her name alone within reach. Eat from Stores chests if hungry.

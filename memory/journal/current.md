@@ -16,3 +16,14 @@
 - 01:13 act: {"actions":[{"do":"give","to":"ag_mulan_01","item":"birch_log","count":4}],"say":"Mulan, here are your 4 birch logs. Sisko."}
 - 01:13 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3050}}],"say":"Sisko going to the bed row for the night. Mulan, thank you for the logs. Leia, I still hold 4 birch logs for you."}
 - 01:13 act: {"actions":[{"do":"sleep"}],"say":"Sisko going to sleep at the bed row, night 1186, in the group's sight. Leia, I still hold 4 birch logs for you."}
+- 01:13 act: {"say":"Sisko, morning 1186. Health and hunger 20. I still owe 4 birch logs to Leia. Leia, say your name when you are in sight and I will hand them over."}
+- Morning 1186, at the row, health and hunger 20. Leia still not in sight; holding 5 birch logs (4 owed to Leia). Waiting in the group's sight.
+- 01:24 act: {"actions":[{"do":"sleep"}],"say":"Sisko at the bed row, dusk 1186, health and hunger 20. Sleeping here in the group's sight. Leia, I still hold 4 birch logs for you."}
+- Sleep failed: not night yet. Morning 1187 now, at the row, health and hunger 20. Mulan in view (already paid). Leia still not seen. Holding 5 birch logs; 4 owed to Leia.
+- Day 1187, at the row, health and hunger 20. Leia not in sight. Waiting in the group's sight for her.
+- 01:39 sleep at dusk 1187 failed (not night yet). Morning 1188 now, at the row, health and hunger 20. Leia still not seen; still holding 4 owed. Handoff note updated.
+- 01:39 act: {"actions":[{"do":"sleep"}],"say":"Sisko at the bed row, dusk 1187, health and hunger 20. Sleeping here in the group's sight. Leia, I still hold 4 birch logs for you; say your name when you are in my 
+- 01:47 act: {"actions":[{"do":"sleep"}],"say":"Sisko at the bed row, dusk 1188, health and hunger 20. Sleeping here in the group's sight. Leia, I still hold 4 birch logs for you."}
+- 01:48 sleep failed: not night (it is day 1188). Still at the row, health and hunger 20. Leia not in sight; holding 4 owed. Waiting in the group's sight.
+- 01:51 act: {"say":"Sisko at the bed row, day 1188, health and hunger 20. Leia, I still hold 4 birch logs for you. Say your name when you are in my sight and alone within reach."}
+- 02:03 act: {"actions":[{"do":"sleep"}],"say":"Sisko at the bed row, night 1188, health and hunger 20. Sleeping here in the group's sight. Leia, I still hold 4 birch logs for you."}
