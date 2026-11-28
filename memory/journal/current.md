@@ -8,3 +8,7 @@
 - 03:31 act: {"actions":[{"do":"give","to":"Mulan","item":"birch_log","count":4}],"say":"Mulan, here are the 4 birch logs I promised you."}
 - 03:32 act: {"actions":[{"do":"give","to":"ag_mulan_01","item":"birch_log","count":4}]}
 - 03:32 act: {"actions":[{"do":"sleep"}]}
+- 03:34 act: {"actions":[{"do":"give","to":"mulan","item":"birch_log","count":4}],"say":"Morning. Mulan, here are the 4 birch logs I promised you."}
+- 03:35 say: {"text":"Mulan, I will give the 4 birch logs when the crowd steps off the line. Say the word when you are alone."}
+- 03:36 act: {"actions":[{"do":"give","to":"mulan","item":"birch_log","count":4}]}
+- 03:44 act: {"actions":[{"do":"sleep"}]}
