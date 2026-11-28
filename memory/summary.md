@@ -1,6 +1,6 @@
 # Recent days
 
-Day 1205: Slept at the bed row in the group's sight, health and hunger 20. Still owe Leia 3 birch logs (hold 1); she was not in sight. No shelter of my own yet.
+Day 1205: Slept at the bed row in the group's sight, health and hunger 20. Still owe Leia 3 birch logs (hold 1); she was not in sight all day. Indy ready for stone walk once a route is agreed. No shelter of my own yet.
 
 Day 1204: Slept at the bed row in the group's sight, health and hunger 20. Mulan and Leia never stood alone within my reach; crowds kept them out.
 
