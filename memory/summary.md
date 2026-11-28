@@ -1,6 +1,6 @@
 # Recent days
 
-Day 1204: Gave Mulan 4 birch logs; she confirmed. Still owe Leia 4 (hold 1). Health and hunger full. Slept at the bed row in the group's sight.
+Day 1204: Slept at the bed row in the group's sight, health and hunger 20. Still owe Leia 3 birch logs (hold 1). No shelter of my own yet.
 
 Day 1202: Mulan and Leia never stood alone within my reach; crowds kept them out.
 
