@@ -1,4 +1,4 @@
-# Goals (ranked, night 1204)
+# Goals (ranked, day 1205)
 
 1. Keep hunger up. Eat bread from the Stores chests (-927,71,-3040) when hungry, weakest first. Reason: food runs out fast.
 2. Give Leia the 3 birch logs still owed (I hold 1). Give only when she stands alone within reach. Reason: I promised them.
