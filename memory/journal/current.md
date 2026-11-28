@@ -10,3 +10,4 @@
 - Dusk 1209: Health and hunger 20, at the bed row in the group's sight. Going to sleep. Trini's search resumes at first light with company.
 - 08:51 say: {"text":"Ben: the east loop stopped short, so I hold at the row in sight. I will walk the next search with Trini once she names the time and route."}
 - 09:00 act: {"actions":[{"do":"sleep"}]}
+- 09:00 act: {"say":"Dusk. I'm at the bed row with the group. Leia isn't in sight, so my logs stay with me tonight.","actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3047}}]}
