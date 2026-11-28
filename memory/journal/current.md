@@ -1,3 +1,18 @@
 # Journal
-- 23:56 act: {"intent":{"goal":"gather_birch_logs","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2
-- 23:57 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3050}}],"say":"I have 9 birch logs now. Mulan and Leia, I'll give you four each when you are in sight at the row."}
+- 23:56 act: gather 8 birch logs (done, now hold 9).
+- 23:57 act: goto the row; said I'd give 4 birch logs each to Mulan and Leia when in sight.
+- 00:10 act: said aloud at the row that I hold 9 birch logs for Mulan and Leia. Neither in sight yet.
+- 00:23 sleep failed: not night yet. Waited at the row.
+- Morning 1184: health and hunger 20, still at the bed row with the group. Mulan and Leia still not in sight. Uhura says Leia is not in sight either. Still holding 9 birch logs. Waiting.
+- 00:38 act: {"actions":[{"do":"give","to":"ag_quark_01","item":"dirt","count":5}],"say":"Quark, Lara's 5 dirt reached me by mistake. I'm passing 5 dirt to you now for your shelter."}
+- 00:46 act: {"actions":[{"do":"sleep"}],"say":"Sisko at the row, dusk 1185, health and hunger 20. Going to sleep here in the group's sight. Mulan and Leia, I still hold 4 birch logs for each of you."}
+- 00:54 act: {"say":"Sisko at the bed row, day 1185, health and hunger 20. Mulan and Leia: I still hold 4 birch logs for each of you. Say your name once you are in my sight and alone within reach."}
+- 01:06 act: {"say":"Sisko here, morning 1186, health and hunger 20, no food. I'll join the stone run in company with Indy, Zheng He, Marty and Lara. Mulan and Leia: my 4 birch logs for each of you are still held,
+- 01:07 act: {"say":"Sisko ready for the stone run. Indy, say when you leave the row edge and I'll follow in your sight."}
+- 01:08 act: {"intent":{"goal":"join_stone_run","program":"follow","arguments":{"target":"ag_indy_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"m
+- 01:08 act: {"say":"Sisko holding here with Marty and Lara at -943,73,-3054. Indy, call us when you are in view and we'll come."}
+- 01:09 act: {"actions":[{"do":"goto","target":{"x":-938,"y":71,"z":-3069}}],"say":"Sisko going to the table at -938,71,-3069 for Mulan's 4 birch logs. Mulan, say your name once you're in sight and alone within re
+- 01:10 act: {"say":"Mulan, I'm at the table with your 4 birch logs. Come within my reach and say your name, and I'll hand them over."}
+- 01:13 act: {"actions":[{"do":"give","to":"ag_mulan_01","item":"birch_log","count":4}],"say":"Mulan, here are your 4 birch logs. Sisko."}
+- 01:13 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3050}}],"say":"Sisko going to the bed row for the night. Mulan, thank you for the logs. Leia, I still hold 4 birch logs for you."}
+- 01:13 act: {"actions":[{"do":"sleep"}],"say":"Sisko going to sleep at the bed row, night 1186, in the group's sight. Leia, I still hold 4 birch logs for you."}
